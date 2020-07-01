@@ -1,0 +1,25 @@
+$color-brand: #ea83ee;
+$color-secondary: rgb(219, 216, 121);
+
+$color-black: rgb(0,0,0);
+$color-darkgray: #4d4d4d;
+$color-grey: #737373;
+$color-white: rgb(255, 255, 255);
+
+//texturas
+$color-alert: rgb(253,228,207);
+$color-error: rgb(218,79,73);
+$color-info: rgb(66,184,221);
+$color-sucsess: rgb(91, 183, 91);
+
+//Tipografia
+$basefont: 'Quicksand', sans-serif;
+$basefontsize: 16px;
+
+$buttoncolor: $color-white;
+$buttonBackgroundColor: $color-brand;
+
+
+body{
+  background-color: $color-sucsess;
+}

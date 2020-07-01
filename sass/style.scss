@@ -1,0 +1,14 @@
+@import "lib/variables";
+
+// elementos base
+@import "base/botones";
+@import "base/links";
+@import "base/tipografia";
+
+// componentes
+
+@import "components/grid";
+
+// este va de ultimas
+
+@import "components/utilities"
