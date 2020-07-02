@@ -1,13 +1,18 @@
 @import "lib/variables";
+@import "lib/mixins";
 
 // elementos base
 @import "base/botones";
 @import "base/links";
 @import "base/tipografia";
 
+
 // componentes
 
 @import "components/grid";
+
+// layout
+@import "layout/layout";
 
 // este va de ultimas
 
